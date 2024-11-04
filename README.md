@@ -16,25 +16,31 @@ dataset: High resolution drone imagery within the city of Kigali
 ![rs_image](https://github.com/user-attachments/assets/38d6e9e3-f3ab-4d84-a439-302a995b224a)
 
 # Results
-1. 
+
+
 ![Gaussina filter](https://github.com/user-attachments/assets/ed6a6087-8f3c-474b-8666-24e05ec32675)
 
 
 ### Interaporotation:
 
-####### By Factor 1: 
+
+###### By Factor 1: 
 ![Image interapolations by factor](https://github.com/user-attachments/assets/612442f9-eeba-4b6f-9fb3-7780aa4a0cd4)
 
-####### By Factor 2: 
+
+###### By Factor 2: 
 
 ![Image interapolations by factor2](https://github.com/user-attachments/assets/209b1fa9-4f4c-484d-9ace-9322f33f7537)
 
 
 
 3. NN
+
+   
 ![I4](https://github.com/user-attachments/assets/7fe67cd4-dfa7-4e9a-9c47-af38c5754a8f)
 
 
-4. Bilinear 
+5. Bilinear 
+
 
 ![Ii4](https://github.com/user-attachments/assets/aab6f537-2b87-4efb-832b-60a187e46a0d)
